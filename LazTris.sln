@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LazTris", "LazTris.csproj", "{A78650AF-D1CE-4FF4-A188-3ED9203CFB7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+		Release|Any CPU = Release|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A78650AF-D1CE-4FF4-A188-3ED9203CFB7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A78650AF-D1CE-4FF4-A188-3ED9203CFB7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A78650AF-D1CE-4FF4-A188-3ED9203CFB7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A78650AF-D1CE-4FF4-A188-3ED9203CFB7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+EndGlobal

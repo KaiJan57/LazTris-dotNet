@@ -1,0 +1,10 @@
+/home/kai_jan_57/MonoDevelop/Projects/LazTris/LazTris/bin/Debug/LazTris.exe.config
+/home/kai_jan_57/MonoDevelop/Projects/LazTris/LazTris/bin/Debug/LazTris.exe
+/home/kai_jan_57/MonoDevelop/Projects/LazTris/LazTris/obj/Debug/LazTris.csprojAssemblyReference.cache
+/home/kai_jan_57/MonoDevelop/Projects/LazTris/LazTris/obj/Debug/LazTris.csproj.CoreCompileInputs.cache
+/home/kai_jan_57/MonoDevelop/Projects/LazTris/LazTris/obj/Debug/LazTris.exe
+/home/kai_jan_57/MonoDevelop/Projects/LazTris/bin/Debug/LazTris.exe.config
+/home/kai_jan_57/MonoDevelop/Projects/LazTris/bin/Debug/LazTris.exe
+/home/kai_jan_57/MonoDevelop/Projects/LazTris/obj/Debug/LazTris.csprojAssemblyReference.cache
+/home/kai_jan_57/MonoDevelop/Projects/LazTris/obj/Debug/LazTris.csproj.CoreCompileInputs.cache
+/home/kai_jan_57/MonoDevelop/Projects/LazTris/obj/Debug/LazTris.exe
